@@ -1,0 +1,7 @@
+name: arena
+version: '${project.version}'
+main: otnose.arena.Arena
+api-version: '1.16'
+commands:
+  arena:
+    description: "Использование команд плагина."
